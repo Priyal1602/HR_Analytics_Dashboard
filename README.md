@@ -1,6 +1,7 @@
 # HR_Analytics_Dashboard
 
 Self-Driven Data Analysis Project
+
 Tools & Technologies: Power BI, Excel, Data Cleaning, DAX
 
 Loaded HR data from Excel into Power BI to develop an interactive dashboard for analyzing workforce metrics.
